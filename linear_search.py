@@ -9,7 +9,7 @@ def sequentially_search(search_element,elements):
     for i in range(len(elements)):
         if elements[i]==search_element:
             return i
-        return -1
+    return -1
         
 
 
