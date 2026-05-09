@@ -2,7 +2,9 @@
 insertion sort
 
 
+BCE of insertion sort is o(n)
 
+WCE of insertion sort is o(n**2)
 
 
 '''
