@@ -3,7 +3,7 @@ Go to mid element of the list and check if it is the search
 If yes,
        then the search can stopped
 If not,
-       then check if element is less than the. id element (i.e if the element is in first half od the list)
+       then check if element is less than the mid element (i.e if the element is in first half od the list)
        if yes,
               then set the saerch area to 1st half of the list
         if not,
